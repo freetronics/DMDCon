@@ -1,6 +1,6 @@
 Freetronics DMDCon
 ==============================
-Copyright 2011 Freetronics Pty Ltd
+Copyright 2011-2014 Freetronics Pty Ltd
 Freetronics site:  http://www.freetronics.com/
 
 An adapter board to connect an Arduino (or compatible) board to a
