@@ -135,7 +135,7 @@
 <wire x1="3.683" y1="18.034" x2="2.667" y2="18.923" width="0.254" layer="21" curve="-90.033846"/>
 <wire x1="2.667" y1="18.923" x2="3.556" y2="19.939" width="0.254" layer="21" curve="-89.988722"/>
 <text x="29.464" y="5.207" size="1.524" layer="22" font="vector" ratio="17" rot="MR0">www.freetronics.com/dmd</text>
-<text x="27.686" y="7.493" size="1.524" layer="22" font="vector" ratio="15" rot="MR0">SKU: DMDCON    V1.1</text>
+<text x="24.384" y="7.493" size="1.524" layer="22" font="vector" ratio="15" rot="MR0">SKU: DMDCON   V1.1</text>
 <text x="10.668" y="18.288" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">freetronics</text>
 <text x="21.336" y="15.748" size="0.8128" layer="22" font="vector" ratio="17" rot="MR0">(C)2014 Freetronics Pty Ltd</text>
 <text x="2.032" y="5.08" size="0.8128" layer="21" font="vector" ratio="15">REF</text>
@@ -189,6 +189,9 @@
 <rectangle x1="0.762" y1="7.62" x2="1.27" y2="17.018" layer="21"/>
 <rectangle x1="1.016" y1="7.366" x2="1.27" y2="7.62" layer="21"/>
 <rectangle x1="1.016" y1="17.018" x2="1.27" y2="17.272" layer="21"/>
+<text x="26.416" y="8.128" size="1.016" layer="22" font="vector" ratio="17" rot="MR0">G</text>
+<text x="28.956" y="8.128" size="1.016" layer="22" font="vector" ratio="17" rot="MR0">D</text>
+<text x="26.416" y="15.24" size="1.016" layer="22" font="vector" ratio="17" rot="MR0">C</text>
 </plain>
 <libraries>
 <library name="freetronics-master-v1">
